@@ -1,0 +1,14 @@
+{
+  "name": "AmmaPlate - Home-cooked meals",
+  "short_name": "AmmaPlate",
+  "description": "Order fresh home-cooked meals from neighbourhood home cooks.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF8EF",
+  "theme_color": "#E8590C",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
